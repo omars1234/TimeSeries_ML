@@ -12,7 +12,7 @@
 
     * [*Data sets*](https://github.com/omars1234/TimeSeries_ML/tree/2c7f7df247af4dafcdfc6b0422cfd3e29db3340b/Pepper%20_Price_Analysis/Data_Sets)  
 
-     * [*Requirements File*](https://github.com/omars1234/TimeSeries_ML/blob/bde296b9f04cc6f010fc3a35dc107313e0f90f3e/Pepper%20_Price_Analysis/requirements.txt)
+     * [*Requirements File*](https://github.com/omars1234/TimeSeries_ML/blob/8c35b7422f5fc24eb85f044333bc4c15bad4d747/Pepper%20_Price_Analysis/requirements.txt)
 
     * [*notebooks*](https://github.com/omars1234/TimeSeries_ML/tree/2c7f7df247af4dafcdfc6b0422cfd3e29db3340b/Pepper%20_Price_Analysis/notebooks)
 
