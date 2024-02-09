@@ -1,4 +1,9 @@
 
+# *Pepper _Price_Analysis*
+
+Analysis objective :
+
+To predict and forecast the selling prices of Bell Peppers of different colors (green, red, yellow)
 
 1. [Data sets](https://github.com/omars1234/Siteck/tree/2efddd27bbae5b6b3ad7a09249193f4ff4d8c77c/Pyhton_Projects/Pepper%20_Price_Analysis/Data_Sets)  
 
