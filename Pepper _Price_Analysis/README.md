@@ -14,6 +14,8 @@
 
    * [*Data_Preperation_and_expoloration*](https://github.com/omars1234/TimeSeries_ML/blob/2c7f7df247af4dafcdfc6b0422cfd3e29db3340b/Pepper%20_Price_Analysis/notebooks/Data_Preperation_and_expoloration.ipynb)
 
+   * [*Stats In Depth-Using R-Programming Language*](https://github.com/omars1234/TimeSeries_ML/blob/22552e6b1989dfe0ff8a590a77aa6f4752b66bab/Pepper%20_Price_Analysis/notebooks/stats.ipynb)
+
    * [*Features_Engineering*](https://github.com/omars1234/TimeSeries_ML/blob/2c7f7df247af4dafcdfc6b0422cfd3e29db3340b/Pepper%20_Price_Analysis/notebooks/Features_Engineering.ipynb)
 
    * [*Features_Selection*](https://github.com/omars1234/TimeSeries_ML/blob/2c7f7df247af4dafcdfc6b0422cfd3e29db3340b/Pepper%20_Price_Analysis/notebooks/Features_Selection.ipynb)
